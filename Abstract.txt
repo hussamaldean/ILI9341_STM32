@@ -1,0 +1,17 @@
+
+
+
+*************** STM32F4-NUCLEO Pin Assignment************************************
+Based on pinnout as indicated by User Manual (NOT what is written on the board)
+
+
+ADC      : PA4
+
+
+GLCD_ST7735
+
+SCK  			:   PB10
+MOSI (SDA)		:   PC3
+RS				:	PB5
+DC				:	PB4
+CS				:	PB3
